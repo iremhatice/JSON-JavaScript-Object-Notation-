@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\json (javascript object notation)\\json (javascript object notation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|solutionrelative:json (javascript object notation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\json (javascript object notation)\\json (javascript object notation)\\personwithignorecondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|solutionrelative:json (javascript object notation)\\personwithignorecondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\json (javascript object notation)\\json (javascript object notation)\\customdateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|solutionrelative:json (javascript object notation)\\customdateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\json (javascript object notation)\\json (javascript object notation)\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|solutionrelative:json (javascript object notation)\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\json (javascript object notation)\\json (javascript object notation)\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|solutionrelative:json (javascript object notation)\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\json (javascript object notation)\\json (javascript object notation)\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D070E5B-7D50-487E-BA17-84DDC05B15DA}|JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj|solutionrelative:json (javascript object notation)\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 359,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonWithIgnoreCondition.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\PersonWithIgnoreCondition.cs",
+              "RelativeDocumentMoniker": "JSON (JavaScript Object Notation)\\PersonWithIgnoreCondition.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\PersonWithIgnoreCondition.cs",
+              "RelativeToolTip": "JSON (JavaScript Object Notation)\\PersonWithIgnoreCondition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:49:09.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomDateConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\CustomDateConverter.cs",
+              "RelativeDocumentMoniker": "JSON (JavaScript Object Notation)\\CustomDateConverter.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\CustomDateConverter.cs",
+              "RelativeToolTip": "JSON (JavaScript Object Notation)\\CustomDateConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAD1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:48:18.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\Address.cs",
+              "RelativeDocumentMoniker": "JSON (JavaScript Object Notation)\\Address.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\Address.cs",
+              "RelativeToolTip": "JSON (JavaScript Object Notation)\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:47:50.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\Person.cs",
+              "RelativeDocumentMoniker": "JSON (JavaScript Object Notation)\\Person.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\Person.cs",
+              "RelativeToolTip": "JSON (JavaScript Object Notation)\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:47:32.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\JsonHandler.cs",
+              "RelativeDocumentMoniker": "JSON (JavaScript Object Notation)\\JsonHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\JsonHandler.cs",
+              "RelativeToolTip": "JSON (JavaScript Object Notation)\\JsonHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBUAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:46:26.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\Program.cs",
+              "RelativeDocumentMoniker": "JSON (JavaScript Object Notation)\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\Program.cs",
+              "RelativeToolTip": "JSON (JavaScript Object Notation)\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:49:08.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

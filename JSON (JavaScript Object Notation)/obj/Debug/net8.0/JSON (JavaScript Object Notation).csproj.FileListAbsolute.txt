@@ -1,0 +1,22 @@
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\JSON (JavaScript Object Notation).exe
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\JSON (JavaScript Object Notation).deps.json
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\JSON (JavaScript Object Notation).runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\JSON (JavaScript Object Notation).dll
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\JSON (JavaScript Object Notation).pdb
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (Ja.4857C38E.Up2Date
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).dll
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\refint\JSON (JavaScript Object Notation).dll
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).pdb
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\JSON (JavaScript Object Notation).genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\JSON (JavaScript Object Notation)\JSON (JavaScript Object Notation)\obj\Debug\net8.0\ref\JSON (JavaScript Object Notation).dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rkWp7uozeaUM8SeOpm8OKevK0VX4/nzYuMWdmatuvoo52/mQyBfbl7r7cfevxX6fa6P0gXs8M5x9QOvCUSnmig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\Çalışmalarım\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation)\\JSON (JavaScript Object Notation).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.io.pipelines\\9.0.3\\system.io.pipelines.9.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.text.encodings.web\\9.0.3\\system.text.encodings.web.9.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
